@@ -1,5 +1,3 @@
-//Maxwell Petersen J00733630
-
 #include "Car.h"
 
 using namespace std;
@@ -68,4 +66,5 @@ ostream& operator<<(ostream& out, const Car& mycar)
 	out << mycar.year << " " << mycar.make << " " << mycar.model;
 	return out;
 }
+
 
