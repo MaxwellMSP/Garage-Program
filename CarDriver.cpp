@@ -1,4 +1,3 @@
-//Maxwell Petersen J00733630
 #include <iostream>
 #include <string>
 #include <conio.h>
@@ -171,4 +170,5 @@ void getUserInput(string& make, string& model, int& year) {
 	cin >> year;
 	return;
 }
+
 
