@@ -1,5 +1,3 @@
-// Maxwell Petersen J00733630
-
 #pragma once
 #include<iostream>
 #include<string>
@@ -39,6 +37,7 @@ private:
 
 
 };
+
 
 
 
